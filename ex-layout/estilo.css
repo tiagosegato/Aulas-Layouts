@@ -1,0 +1,37 @@
+*{ margin: 0; padding: 0; }
+
+.colunas{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.esp-secoes{
+	justify-content: space-around;
+	margin: 70px 0;
+}
+
+nav{
+	justify-content: space-between;
+	background-color: #DDD;
+	padding: 10px;
+}
+
+li{
+	list-style-type: none;
+	margin-right: 40px;
+}
+
+.textos{
+	width: 500px;
+}
+
+main img{
+	width: 500px;
+}
+
+footer{
+	width: 100%;
+	height: 70px;
+	background-color: #212121;
+}
