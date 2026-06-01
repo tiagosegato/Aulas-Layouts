@@ -66,8 +66,8 @@ div {
 	margin: 10px;
 }
 
-/* MOBILE */
-@media screen and (max-width: 390px) {
+/* MOBILE - compatível com iPhone 14 Pro max*/
+@media screen and (max-width: 430px) {
 
 	nav,
 	main,
