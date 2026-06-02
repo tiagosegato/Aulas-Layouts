@@ -1,13 +1,15 @@
-.cinza{
+.cinza {
 	background-color: #777;
 }
-.cinza-claro{
+
+.cinza-claro {
 	background-color: #CCC;
 }
-.cinza-escuro{
+
+.cinza-escuro {
 	background-color: #212121;
 }
 
-h1{
+h1 {
 	text-align: center;
 }
